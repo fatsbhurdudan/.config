@@ -6,3 +6,8 @@ Personal development log — notes, findings, and ongoing work.
 - Bumped patch version
 - Addressed feedback from self code review
 - Resolved deprecation warnings
+
+## 2026-03-23
+- Tested build on clean environment
+- Added healthcheck endpoint stub
+- Added .editorconfig for consistent formatting
