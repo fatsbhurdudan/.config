@@ -11,3 +11,6 @@ Personal development log — notes, findings, and ongoing work.
 - Tested build on clean environment
 - Added healthcheck endpoint stub
 - Added .editorconfig for consistent formatting
+
+## 2026-03-23
+- Added basic usage examples to README
